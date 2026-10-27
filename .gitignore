@@ -1,0 +1,5 @@
+# Local secrets and runtime files
+inc/db.local.php
+storage/*.log
+.DS_Store
+Thumbs.db
